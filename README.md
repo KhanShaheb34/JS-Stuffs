@@ -3,7 +3,7 @@ Some good-to-know stuffs about JavaScript that is not that necessary to be aware
 
 ## Contents
 * ["use strict"](#use-strict)
-* [Pass by value or Pass by reference](#Pass-by-value-or-Pass-by-reference)
+* [Pass by Value or Pass by Reference](#Pass-by-value-or-Pass-by-reference)
 
 ## "use strict"
 The purpose of `"use strict"` is to indicate that the code should run in **strict mode**. In the strict mode JS gives some extra errors and warnings that is ignored in the normal mode to make debugging easy.
