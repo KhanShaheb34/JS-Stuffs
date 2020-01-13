@@ -90,7 +90,7 @@ makeNoakhaliABivag(); // ReferenceError: noakhali is not defined
 * Some keyword are reserved by JS and can't be used as variable or function names like `eval`, `arguments`, `let` etc
 * Some statements like `eval()`, `with()` etc is not allowed in the strict mode
 > All of the examples pointed before does work fine in normal mode!
-### [⬆️ Back to top](#JS-Stuffs)
+#### [⬆️  Back to top](#JS-Stuffs)
 
 ## Pass by Value or Pass by Reference
 At first, pass by value means passing the copy of an instance or only the value to a function as arguments. And pass by reference means passing the address or a reference that points to a variable.
@@ -131,4 +131,4 @@ makeObaidulKaderCool(ObaidulKader);
 console.log(ObaidulKader.personality); // XOSS
 
 ```
-### [⬆️ Back to top](#JS-Stuffs)
+#### [⬆️  Back to top](#JS-Stuffs)
